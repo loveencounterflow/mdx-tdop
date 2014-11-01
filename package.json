@@ -1,5 +1,5 @@
 {
-  "name": "tdop",
+  "name": "mdx-tdop",
   "version": "0.0.3",
   "description": "https://github.com/douglascrockford/TDOP adapted for NodeJS",
   "main": "lib/main.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/loveencounterflow/tdop.git"
+    "url": "https://github.com/loveencounterflow/mdx-tdop.git"
   },
   "keywords": [
     "pratt",
@@ -28,7 +28,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/loveencounterflow/tdop/issues"
+    "url": "https://github.com/loveencounterflow/mdx-tdop/issues"
   },
-  "homepage": "https://github.com/loveencounterflow/tdop"
+  "homepage": "https://github.com/loveencounterflow/mdx-tdop"
 }
